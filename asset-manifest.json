@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PFV/static/css/main.2b122c58.css",
+    "main.js": "/PFV/static/js/main.d1b67305.js",
+    "static/js/787.2f664a6d.chunk.js": "/PFV/static/js/787.2f664a6d.chunk.js",
+    "index.html": "/PFV/index.html",
+    "main.2b122c58.css.map": "/PFV/static/css/main.2b122c58.css.map",
+    "main.d1b67305.js.map": "/PFV/static/js/main.d1b67305.js.map",
+    "787.2f664a6d.chunk.js.map": "/PFV/static/js/787.2f664a6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b122c58.css",
+    "static/js/main.d1b67305.js"
+  ]
+}
